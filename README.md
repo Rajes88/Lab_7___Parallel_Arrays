@@ -1,0 +1,1 @@
+# Lab_7___Parallel_Arrays
